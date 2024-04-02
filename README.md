@@ -4,7 +4,7 @@ Submitted by: **Imani Cage**
 
 **Tumblr UX** is an app that adds on to the previous edition of my Tumblr project (see here: https://github.com/Creasiion/CodePath-project5-Tumblr), and adds the ability for users to navigate to a detail view by tapping a blog post in the main tumblr feed.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
